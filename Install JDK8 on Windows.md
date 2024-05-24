@@ -3,7 +3,7 @@
 The Java Development Kit (JDK) is a Java distribution being sponsored by Oracle Corporation. It implements the Java Language Specification and the Java Virtual Machine Specification and provides the Standard Edition of the Java Application Programming Interface (API).
 JDK provides a software environment such as Java Virtual Machine (JVM), Compiler, Debugger, Performance monitoring tools and other utilities which are needed for developing Java applications and applets. JDK comes with a complete Java Runtime Environment (JRE) (also called as private runtime) which is separated from the regular JRE and has extra contents. 
 
-Follow these steps to install JDK8 on Windows and use it. You can also go through [this PDF document](https://github.com/srimarrivada/JDK-Installation/blob/main/doc/Install%20JDK8%20on%20Windows.pdf) with more detailed steps along with screenshots.
+Follow these steps to install JDK8 on Windows and use it. You can also go through [this PDF document](/doc/Install%20JDK8%20on%20Windows.pdf) for installation steps along with screenshots.
 
 ## **Install JDK:**
 1. Download Oracle JDK from [Oracle Java Downloads](https://www.oracle.com/java/technologies/downloads/) website.
