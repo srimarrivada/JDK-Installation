@@ -52,8 +52,9 @@ After JDK is installed, the next step is to configure it by creating **JAVA_HOME
 
 ## **Verify JDK Release:**
 Open **Windows Command prompt** or **Windows PowerShell** and type the following command to verify the installed Java release.
-
-`java -version`
+```
+java -version
+```
 
 It should show the java version (for example `1.8.0_411`) that was installed.
 
